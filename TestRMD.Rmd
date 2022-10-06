@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-I am making changes to this file
+I am making changes to this file.
+I an making more changes.
 
 ## R Markdown
 
